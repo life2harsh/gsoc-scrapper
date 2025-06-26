@@ -16,14 +16,14 @@ The tool outputs a JSON array of blog posts:
 ```json
 [
   {
-    "date": "June 26, 2025",
-    "title": "GSoC 2025: Final Results Announced",
-    "url": "https://opensource.googleblog.com/2025/06/gsoc-2025-final-results.html"
+    "date": "Thursday, May 8, 2025",
+    "title": "GSoC 2025: We have our Contributors!",
+    "url": "https://opensource.googleblog.com/2025/05/gsoc-2025-we-have-our-contributors.html"
   },
   {
-    "date": "June 20, 2025",
-    "title": "Meet the GSoC 2025 Mentors",
-    "url": "https://opensource.googleblog.com/2025/06/meet-gsoc-2025-mentors.html"
+    "date": "Monday, March 24, 2025",
+    "title": "Google Summer of Code 2025 Contributor Applications Now Open!",
+    "url": "https://opensource.googleblog.com/2025/03/google-summer-of-code-2025-contributor.html"
   }
 ]
 ```
@@ -85,7 +85,7 @@ vcpkg install libxml2:x64-windows
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/gsoc-blog-scraper.git
+git clone https://github.com/life2harsh/gsoc-scraper.git
 cd gsoc-blog-scraper
 ```
 
